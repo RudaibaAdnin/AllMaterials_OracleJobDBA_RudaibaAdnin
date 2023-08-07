@@ -1,1 +1,1 @@
-# AllMaterials_OracleJobDBA_RudaibaAdnin
+I worked as a Database Engineer at Therap BD Ltd. Here, I gathered industry experience in writing SQL Queries, Shell Script, Python, Java, etc. This repository contains slides, documentation, and certificates from my DBA job experience.
